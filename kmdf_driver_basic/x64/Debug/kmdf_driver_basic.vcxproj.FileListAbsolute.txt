@@ -1,0 +1,1 @@
+C:\Users\anieb\Documents\Courses\Windows Drivers\windows_km_drivers\kmdf_driver_basic\x64\Debug\kmdf_driver_basic.sys

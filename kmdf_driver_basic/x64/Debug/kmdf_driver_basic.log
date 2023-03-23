@@ -1,0 +1,23 @@
+﻿  Building 'kmdf_driver_basic' with toolset 'WindowsKernelModeDriver10.0' and the 'Universal' target platform.
+  Stamping x64\Debug\kmdf_driver_basic.inf
+  Stamping [Version] section with DriverVer=03/22/2023,23.59.16.38
+  Driver.c
+  kmdf_driver_basic.vcxproj -> C:\Users\anieb\Documents\Courses\Windows Drivers\windows_km_drivers\kmdf_driver_basic\x64\Debug\kmdf_driver_basic.sys
+  Done Adding Additional Store
+  Successfully signed: C:\Users\anieb\Documents\Courses\Windows Drivers\windows_km_drivers\kmdf_driver_basic\x64\Debug\kmdf_driver_basic.sys
+  
+  Driver is 'Universal'.
+  ........................
+  Signability test complete.
+  
+  Errors:
+  None
+  
+  Warnings:
+  None
+  
+  Catalog generation complete.
+  C:\Users\anieb\Documents\Courses\Windows Drivers\windows_km_drivers\kmdf_driver_basic\x64\Debug\kmdf_driver_basic\kmdf_driver_basic.cat
+  Done Adding Additional Store
+  Successfully signed: C:\Users\anieb\Documents\Courses\Windows Drivers\windows_km_drivers\kmdf_driver_basic\x64\Debug\kmdf_driver_basic\kmdf_driver_basic.cat
+  
